@@ -1,0 +1,5 @@
+D:\sis457\GaLaGa_USFX_LaB1\Intermediate\Build\Win64\UE4Editor\Development\GaLaGa_USFX_LaB1\Definitions.GaLaGa_USFX_LaB1.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\sis457\GaLaGa_USFX_LaB1\Source\GaLaGa_USFX_LaB1/ArmaNave.h
+D:\sis457\GaLaGa_USFX_LaB1\Intermediate\Build\Win64\UE4Editor\Inc\GaLaGa_USFX_LaB1\ArmaNave.generated.h

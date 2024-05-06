@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GaLaGa_USFX_LaB1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{519695B7-418A-4693-A8C4-96141CB1B425}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GaLaGa_USFX_LaB1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GaLaGa_USFX_LaB1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{28E831F5-F633-4CB1-ABAB-D5ECB1F9C187}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\.editorconfig">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GaLaGa_USFX_LaB1">
+      <UniqueIdentifier>{A980C13D-64C7-44FC-9680-31BA7BECBBA4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\ArmaNave.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\ArmaNave.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\BuildNave.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\BuildNave.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\BuildNaveNodrizaConcreto.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\BuildNaveNodrizaConcreto.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\DirectorNaveNodriza.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\DirectorNaveNodriza.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GaLaGa_USFX_LaB1\GaLaGa_USFX_LaB1.Build.cs">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\GaLaGa_USFX_LaB1.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\GaLaGa_USFX_LaB1.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\GaLaGa_USFX_LaB1GameMode.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\GaLaGa_USFX_LaB1GameMode.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\GaLaGa_USFX_LaB1Pawn.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\GaLaGa_USFX_LaB1Pawn.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\GaLaGa_USFX_LaB1Projectile.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\GaLaGa_USFX_LaB1Projectile.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\Motores.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\Motores.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\NaveEnemiga.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\NaveEnemiga.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\NaveEnemigaCaza.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\NaveEnemigaCaza.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\NaveEnemigaEspia.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\NaveEnemigaEspia.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\NaveEnemigaReabastecimiento.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\NaveEnemigaReabastecimiento.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\NaveEnemigaTransporte.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\NaveEnemigaTransporte.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\NaveNodriza.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\NaveNodriza.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\NaveNodrizaInterfaz.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\NaveNodrizaInterfaz.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GaLaGa_USFX_LaB1\NaveSpawn.cpp">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GaLaGa_USFX_LaB1\NaveSpawn.h">
+      <Filter>Source\GaLaGa_USFX_LaB1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

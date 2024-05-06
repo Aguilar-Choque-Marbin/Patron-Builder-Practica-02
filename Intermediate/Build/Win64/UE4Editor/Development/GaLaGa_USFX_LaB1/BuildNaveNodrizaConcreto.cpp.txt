@@ -1,0 +1,11 @@
+D:\sis457\GaLaGa_USFX_LaB1\Intermediate\Build\Win64\UE4Editor\Development\GaLaGa_USFX_LaB1\Definitions.GaLaGa_USFX_LaB1.h
+D:\sis457\GaLaGa_USFX_LaB1\Source\GaLaGa_USFX_LaB1\BuildNaveNodrizaConcreto.h
+D:\sis457\GaLaGa_USFX_LaB1\Source\GaLaGa_USFX_LaB1\BuildNave.h
+D:\sis457\GaLaGa_USFX_LaB1\Source\GaLaGa_USFX_LaB1\NaveNodriza.h
+D:\sis457\GaLaGa_USFX_LaB1\Source\GaLaGa_USFX_LaB1\NaveNodrizaInterfaz.h
+D:\sis457\GaLaGa_USFX_LaB1\Source\GaLaGa_USFX_LaB1\GaLaGa_USFX_LaB1Projectile.h
+D:\sis457\GaLaGa_USFX_LaB1\Intermediate\Build\Win64\UE4Editor\Inc\GaLaGa_USFX_LaB1\GaLaGa_USFX_LaB1Projectile.generated.h
+D:\sis457\GaLaGa_USFX_LaB1\Intermediate\Build\Win64\UE4Editor\Inc\GaLaGa_USFX_LaB1\NaveNodrizaInterfaz.generated.h
+D:\sis457\GaLaGa_USFX_LaB1\Intermediate\Build\Win64\UE4Editor\Inc\GaLaGa_USFX_LaB1\NaveNodriza.generated.h
+D:\sis457\GaLaGa_USFX_LaB1\Intermediate\Build\Win64\UE4Editor\Inc\GaLaGa_USFX_LaB1\BuildNave.generated.h
+D:\sis457\GaLaGa_USFX_LaB1\Intermediate\Build\Win64\UE4Editor\Inc\GaLaGa_USFX_LaB1\BuildNaveNodrizaConcreto.generated.h
